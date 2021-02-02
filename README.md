@@ -1,2 +1,2 @@
-# AIDI-2005-Next-Word-Predictor
-Smart Compose Editor
+# AIDI-2005-Group1-Smart-Compose-Editor
+
