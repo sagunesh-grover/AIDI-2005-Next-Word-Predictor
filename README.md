@@ -28,6 +28,6 @@ The results of various Machine Learning Models on the test set are:
 |:-------------------:|:--------:|
 |    **RNN**          | **0.90673** |
 | Logistic Regression | 0.898222 |
-|    Naive Baye's     | 0.897678 |
+|    Naive Bayes     | 0.897678 |
 
 
