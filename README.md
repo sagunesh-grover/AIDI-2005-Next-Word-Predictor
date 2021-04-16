@@ -6,7 +6,7 @@
 The deployed flask web application can be found [here](http://sagunesh.pythonanywhere.com/) and the code can be found [here](https://github.com/sagunesh-grover/AIDI-2005-Next-Word-Predictor/tree/main/05%20-%20PRODUCT%20TO%20LAUNCH/WebApp)
 
 <p align="center">
-  <img src="https://github.com/sagunesh-grover/demo.gif" alt="animated" />
+  <img src="https://github.com/sagunesh-grover/AIDI-2005-Next-Word-Predictor/blob/main/05%20-%20PRODUCT%20TO%20LAUNCH/Model/demo.gif" alt="animated" />
 </p>
 
 
